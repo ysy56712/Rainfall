@@ -177,4 +177,3 @@ Rainfall/
 ## 참고 자료
 
 * 기상청 기상자료개방포털
-* Rainfall Prediction LSTM Baseline
